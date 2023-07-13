@@ -1,0 +1,10 @@
+<div class="feature-image" style="background-color:#F2DEE7 ;">
+          <!-- <img src="images/pngwing 6.png" alt=""> -->
+          </div>
+        </div>
+        <div class="feature-image" style="background-color:#D9EFF1 ;">
+            <!-- <img src="images/pngwing 5.png" alt=""> -->
+        </div>
+        <div class="feature-image" style="background-color:#E3EBDB ;">
+        <!-- <img src="images/pngwing 7.png" alt=""> -->
+        </div>
